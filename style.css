@@ -1,0 +1,8 @@
+html{
+    scroll-behavior: smooth;
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+img{
+    width: 20%;
+}
